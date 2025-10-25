@@ -2,8 +2,8 @@ import React from 'react'
 
 const TextSection = () => {
   return (
-    <div>TextSection</div>
-  )
-}
-
-export default TextSection
+    <div className='overflow-x-hidden overflow-y-scroll'>
+        
+    </div>
+  )}
+export default TextSection;

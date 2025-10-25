@@ -4,9 +4,11 @@ import SecondWidget from "./SecondWidget";
 
 const WidgetContainer = () => {
   return (
-    <div className='w-1/2 flex flex-col gap-5'>
-      <FirstWidget/>
-      <SecondWidget/>
+
+    
+    <div className=" w-1/2  flex flex-col gap-5 card  image-full  ">
+         <FirstWidget/>
+        <SecondWidget/>
     </div>
   )
 }
