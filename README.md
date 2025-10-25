@@ -1,6 +1,6 @@
 # Lunacal Assignment
 
-![Lunacal Logo](https://cdn-icons-png.flaticon.com/512/4503/4503941.png)
+![Lunacal Logo](./image.png)
 
 ## Description
 
