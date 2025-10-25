@@ -1,4 +1,4 @@
-import CompleteProfileDesign from "./CompleteProfileDesign";
+import CompleteProfileDesign from "./components/CompleteProfileDesign";
 function App() {
  
   return (
