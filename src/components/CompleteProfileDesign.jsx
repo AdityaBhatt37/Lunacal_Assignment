@@ -11,7 +11,7 @@ const CompleteProfileDesign = () => {
     "https://images.unsplash.com/photo-1618556450994-a6a128ef0d9d?w=400",
     "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=400",
     "https://images.unsplash.com/photo-1618556450991-2f1af64e8191?w=400",
-    "https://images.unsplash.com/photo-1634017839321-3b0c3b1d0c3e?w=400",
+    "https://images.unsplash.com/photo-1618556450991-2f1af64e8191?w=400",
     "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?w=400",
   ]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -54,7 +54,7 @@ I was born and raised in Albany, NY & have been living in Santa Carla for the pa
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 lg:gap-6 h-full">
 
           {/* Left Side - Instructions */}
-          <div className="bg-gradient-to-br from-[#3a3f4f] to-[#2d323e] rounded-3xl shadow-2xl p-6 lg:p-8 overflow-y-auto custom-scrollbar h-full">
+          <div className="bg-[#616161] rounded-3xl shadow-2xl p-6 lg:p-8 overflow-y-auto custom-scrollbar h-full">
          
             <div className="space-y-4 text-[#b8c0d0] text-sm lg:text-base leading-relaxed">
               {/* Instruction content */}
