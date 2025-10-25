@@ -1,6 +1,4 @@
-import Body from "./components/Body";
-import BtnWidget from "./components/BtnWidget";
-import CompleteProfileDesign from "./components/CompleteProfileDesign";
+import CompleteProfileDesign from "./CompleteProfileDesign";
 function App() {
  
   return (
